@@ -1,0 +1,2 @@
+norminette -R CheckForbiddenSourseHeader
+norminette CheckDefine
